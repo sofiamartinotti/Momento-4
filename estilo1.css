@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body{
+	background-color: #123b3b;
+	overflow: scroll;
+}
+
+main{
+	width: 90%;
+	height: 700px;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header{
+	width: 100%;
+	height: 115px;
+	background-color: #000000;
+}
+
+.logo{
+	margin-left: 2%;
+	padding: 1%;
+}
+
+nav{
+	background-color: #000000;
+	width: 100%;
+	height: 5%;
+}
+
+#botonera{
+	margin-left: 69%;	
+}
+
+#botonera li{
+	display: inline;
+}
+
+#botonera li a{
+	font-size: 17px;
+	text-decoration: none;
+	margin-left: 7%;
+	margin-right: 2%;
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #0E4241;
+	padding: 0.5%;
+}
+
+section{
+	width: 100%;
+	height: 500px;
+	background-image: url(fondo7.jpg);
+	background-size: cover;
+}
+
+p{
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	margin-left: 1%;
+	padding: 2.5%;
+	text-decoration: none;
+}
+
+#par{
+	margin-left: 10%;
+	margin-right: 10%;
+	column-count: 2;
+}
+
+#capitulo{
+	font-size: 20px;
+	font-family: 'Russo One', sans-serif;
+	color: #FFFFFF;
+	text-align: center;
+	float: right;
+	position: relative; top: 55%;
+	margin-right: 5%;
+	margin-left: 60%;
+}
+
+footer{
+	width: 100%;
+	height: 85px;
+	background-color: #A3B6A4;
+	clear: both;
+}
+
+.nombre{
+	text-decoration: none;
+	color: #0E4241;
+}
+
+#bm{
+	margin-left: 27%;	
+}
+
+.logos{
+	margin-left: 30%;
+	padding-top: 1%;
+}
+
+#texto{
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	float: right;
+	text-align: center;
+	background-color: rgba(14, 66, 65, 0.5);
+	padding: 1%;
+	position: relative; top: 60%;
+	font-size: 25px;
+}
+
+#interna{
+	width: 100%;
+	height: 1000px;
+	background-image: url(pixel.jpg);
+	background-size: cover;
+}
+
+h1{
+	font-size: 40px;
+	font-family: 'Russo One', sans-serif;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 1%;
+}
+.trivia{
+	margin-right: 43%;
+}
+h4{
+	font-size: 25px;
+	font-family: 'Russo One', sans-serif;
+	color: #A3B6A4;
+	text-align: center;
+	padding: 2%;
+}
+
+.galeria{
+	padding: 0.5%;
+	margin-left: 4%;
+}
+
+.reparto{
+	margin-left: 5%;
+	padding-right: 20%;
+}
+
+.descripcion{
+	margin-left: 21%;
+	padding-right: 50%;
+	margin-top: -16%;
+
+}
+.repartodos{
+	margin-left: 10%;
+	padding-right: 20%;
+}
+
+.descripciondos{
+	margin-left: 70%;
+	padding-right: 5%;
+	margin-top: -16%;
+}
+
+#formulario{
+	width: 47%;
+	max-width: 1280px;
+	height: 850px;
+	margin-left: 5%;
+	margin-right: auto;
+	background-color: #A3B6A4;
+	border-width: thick;
+	border-style: double ; color: #0E4241;
+}
+
+#preg{
+	font-size: 25px;
+	font-family: 'Russo One', sans-serif;
+	color: #0E4241;
+	text-align: center;
+	padding: 2%;
+	
+}
+
+.preguntas{
+	color: #0E4241;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 5%;
+}
+
+.cajal{
+	margin-left: 5%;
+}
+
+.respuestas{
+	color: #0E4241;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 2%;
+}
+
+.cajac{
+	width: 200px;
+	height: 80px;
+	margin-left: 10%;
+}
+
+.boton{
+	width: 100px;
+	height: 50px;
+	background-color: #0E4241;
+	padding: 1%;
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 40%;
+}
+
+#resumen{
+	margin-left: 55%;
+	padding-right: 5%;
+	margin-top: -55%;
+}
+
+#video{
+	margin-left: 56%;
+	padding: 1%;
+}

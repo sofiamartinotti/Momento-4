@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #a8d7d7;
+	overflow: scroll;
+}
+
+main{
+	width: 90%;
+	height: 700px;
+	background-color: #146c6c;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header{
+	width: 100%;
+	height: 120px;
+	background-color: #161d1d;
+}
+
+#tcabecera{
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	margin-left: 2%;
+	padding: 4%;
+	text-decoration: none;
+	font-size: 30px;
+}
+
+nav{
+	background-color: #161d1d;
+	width: 100%;
+	height: 5%;
+}
+
+#menu{
+	margin-left: 35%;
+}
+
+#menu li{
+	display: inline;
+}
+
+#menu li a{
+	font-size: 17px;
+	text-decoration: none;
+	margin-left: 2%;
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	padding: 0.5%;
+}
+
+section{
+	width: 100%;
+	height: 500px;
+	background-image: url(fondox.jpg);
+	background-size: cover;
+}
+
+p{
+	color: #FFFFFF;
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	margin-left: 1%;
+	padding: 2%;
+}
+
+#principal{
+	padding: 2%;
+	position: relative; top: 60%;
+	font-size: 25px;
+	background-color: rgba(147, 119, 105, 0.8);
+}
+
+h1{
+	font-size: 33px;
+	font-family: 'Russo One', sans-serif;
+	color: #0c2727;
+	text-align: center;
+	padding: 1.5%;
+}
+
+h4{
+	font-size: 25px;
+	font-family: 'Russo One', sans-serif;
+	color: #184e4e;
+	text-align: center;
+}
+
+footer{
+	width: 100%;
+	height: 80px;
+	background-color: #000000;
+	clear: both;
+}
+
+.logo{
+	margin-left: 31%;
+}
+
+.estructura{
+	margin-left: 5%;
+	padding: 1%;
+}
+
+.volver{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#pdf{
+	margin-left: 30%;
+}
+
+#sitio{
+	width: 100%;
+	height: 1060px;
+}
+
+.galeria{
+	margin-left: 15%;
+	padding: 1%;
+}
+
+.galeriados{
+	margin-left: 17%;
+	padding: 0.5%;
+}
+
+.galeriatres{
+	margin-right: 3%;
+	margin-left: 13%;
+	padding: 1%;
+}
+
+.galeriacua{
+	margin-left: 16.7%;
+	padding: 0.5%;
+	
+}
